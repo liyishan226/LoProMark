@@ -1,0 +1,5 @@
+{
+  "name": "sd21_local",
+  "model": "sd21",
+  "model_path": "weights/stable-diffusion-2-1-base"
+}
